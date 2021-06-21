@@ -1,4 +1,4 @@
-class hammer {
+class Hammer {
   constructor(x, y) {
     var options = {
       'density':4,
